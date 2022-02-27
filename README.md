@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, 👋
+I am Abhijit Mukherjee. I am a result-oriented and technically-astute IT Professional offering 12+ years of rich and qualitative experience in improving and optimizing app (mobile, backend) performance, with appropriate fitment and usage of data structures. I am exposed to working on mobile application development, react js + Redux application development, with Golang backend application development and skilled in the full life cycle of deployment with CI/CD pipeline, microservice-based apps into Azure and AWS cloud using kubernetes. My constant hard work, perseverance and dedication towards my work has helped me to consistently accomplish business targets and render superior quality service across the professional career.
 
 <!--
 **mabhi/mabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/212112/155873390-327cacd7-295a-4234-8c11-b96f186fd834.png">
+
+- 🔭 I’m currently working on Golang and iOS projects
+- 🌱 I’m currently learning ...Machile learning with ML Kit
+- 👯 I’m looking to collaborate on ... Image feature and seam carving project using Golang for performance enhancements. Full stack projects.
+- 🤔 I’m looking for help with ... ARKit apps
+- 💬 Ask me about ...Golang and iOS 
+- 📫 How to reach me: ... over email: mukherjeeab@gmail.com
+- ⚡ Fun fact: ... I am guitarist 🎸 and vocalist 🎤. I work on freelance projects with Non profit orgs. 
+
