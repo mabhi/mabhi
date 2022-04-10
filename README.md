@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/212112/155882376-fe60b0a8-e93e-4104-a56b-9276d6aeedad.png">
 
 
-- 🔭 I’m currently working on Golang and iOS projects
+- 🔭 I’m currently working on Golang and Vuejs projects
 - 🌱 I’m currently learning ...Machile learning with ML Kit
 - 👯 I’m looking to collaborate on ... Real time channels with golang websockets. Image feature and seam carving project using Golang for performance enhancements. Full stack projects.
 - 🤔 I’m looking for help with ... ARKit apps
