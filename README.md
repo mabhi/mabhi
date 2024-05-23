@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on native Kubernetes projects in Golang
 - 👯 I’m looking to collaborate on ... Real time channels with golang websockets. Image feature and seam carving project using Golang for performance enhancements. Full stack projects.
-- 💬 Ask me about ...Golang, Reactjs, Vuejs, Webpacks and Kubernetes 
+- 💬 Ask me about ...Golang, Python, Django and Kubernetes 
 - 📫 How to reach me: ... over email: mukherjeeab@gmail.com
 - ⚡ Fun fact: ... I am guitarist 🎸 and vocalist 🎤. I work on freelance projects with Non profit orgs. 
 
